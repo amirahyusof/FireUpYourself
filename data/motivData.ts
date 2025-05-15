@@ -101,7 +101,7 @@ export const motivData = [
   },
   {
     "id": 21,
-    "quote": "Motivational quote #21",
+    "quote": "",
     "gradient": "bg-gradient-to-r from-red-300 to-yellow-300"
   },
   {
