@@ -1,7 +1,7 @@
 "use client"
 import React, { useState, useEffect } from "react";
 import QuoteCard from "@/component/QuoteCard";
-import { motivData } from "@/data/motivData";
+import { motivData } from "@/lib/motivData";
 import Footer from "@/component/footer";
 
 export default function Main(){
@@ -30,7 +30,10 @@ export default function Main(){
 
   return (
     <div className="flex flex-col items-center">
-      <h1>Hello, Good Morning!</h1>
+      <div className="items-left py-10">
+        <h1 className="text-xl font-bold text-left">Hello, Good Morning!</h1>
+      </div>
+      
       <div className="flex items-center mx-auto justify-center">
         <QuoteCard
           quote={motivation.quote}
@@ -39,8 +42,6 @@ export default function Main(){
         />
       
       </div>
-      
-      
       <Footer />
     </div>
   );
