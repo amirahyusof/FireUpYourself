@@ -100,903 +100,903 @@ export const motivData = [
     "gradient": "bg-gradient-to-r from-indigo-200 via-red-200 to-yellow-100"
   },
   {
-    "id": 21,
-    "quote": "",
-    "gradient": "bg-gradient-to-r from-red-300 to-yellow-300"
+  "id": 21,
+  "quote": "Believe you can and you're halfway there.",
+  "gradient": "bg-gradient-to-r from-red-300 to-yellow-300"
   },
   {
     "id": 22,
-    "quote": "Motivational quote #22",
+    "quote": "Start where you are. Use what you have. Do what you can.",
     "gradient": "bg-gradient-to-r from-rose-400 via-fuchsia-500 to-indigo-500"
   },
   {
     "id": 23,
-    "quote": "Motivational quote #23",
+    "quote": "Don’t watch the clock; do what it does. Keep going.",
     "gradient": "bg-gradient-to-r from-purple-400 via-pink-500 to-red-500"
   },
   {
     "id": 24,
-    "quote": "Motivational quote #24",
+    "quote": "Everything you need is already inside you.",
     "gradient": "bg-gradient-to-r from-purple-400 via-pink-500 to-red-500"
   },
   {
     "id": 25,
-    "quote": "Motivational quote #25",
+    "quote": "You are stronger than you think.",
     "gradient": "bg-gradient-to-r from-red-300 to-yellow-300"
   },
   {
     "id": 26,
-    "quote": "Motivational quote #26",
+    "quote": "Push yourself, because no one else is going to do it for you.",
     "gradient": "bg-gradient-to-r from-purple-400 via-pink-500 to-red-500"
   },
   {
     "id": 27,
-    "quote": "Motivational quote #27",
+    "quote": "Small steps every day lead to big results.",
     "gradient": "bg-gradient-to-r from-yellow-200 via-red-300 to-pink-400"
   },
   {
     "id": 28,
-    "quote": "Motivational quote #28",
+    "quote": "Doubt kills more dreams than failure ever will.",
     "gradient": "bg-gradient-to-r from-purple-400 via-pink-500 to-red-500"
   },
   {
     "id": 29,
-    "quote": "Motivational quote #29",
+    "quote": "Don’t stop until you’re proud.",
     "gradient": "bg-gradient-to-r from-yellow-200 via-red-300 to-pink-400"
   },
   {
     "id": 30,
-    "quote": "Motivational quote #30",
+    "quote": "Your only limit is your mind.",
     "gradient": "bg-gradient-to-r from-cyan-500 to-blue-500"
   },
   {
     "id": 31,
-    "quote": "Motivational quote #31",
+    "quote": "Discipline is choosing between what you want now and what you want most.",
     "gradient": "bg-gradient-to-r from-green-300 via-blue-500 to-purple-600"
   },
   {
     "id": 32,
-    "quote": "Motivational quote #32",
+    "quote": "You don’t have to be great to start, but you have to start to be great.",
     "gradient": "bg-gradient-to-r from-red-300 to-yellow-300"
   },
   {
     "id": 33,
-    "quote": "Motivational quote #33",
+    "quote": "Keep going. Everything you need will come to you at the perfect time.",
     "gradient": "bg-gradient-to-r from-red-300 to-yellow-300"
   },
   {
     "id": 34,
-    "quote": "Motivational quote #34",
+    "quote": "Success is what comes after you stop making excuses.",
     "gradient": "bg-gradient-to-r from-green-300 via-blue-500 to-purple-600"
   },
   {
     "id": 35,
-    "quote": "Motivational quote #35",
+    "quote": "Be fearless in the pursuit of what sets your soul on fire.",
     "gradient": "bg-gradient-to-r from-indigo-200 via-red-200 to-yellow-100"
   },
   {
     "id": 36,
-    "quote": "Motivational quote #36",
+    "quote": "Act as if what you do makes a difference. It does.",
     "gradient": "bg-gradient-to-r from-indigo-200 via-red-200 to-yellow-100"
   },
   {
     "id": 37,
-    "quote": "Motivational quote #37",
+    "quote": "Your potential is endless.",
     "gradient": "bg-gradient-to-r from-red-300 to-yellow-300"
   },
   {
     "id": 38,
-    "quote": "Motivational quote #38",
+    "quote": "Make your life a masterpiece.",
     "gradient": "bg-gradient-to-r from-green-300 via-blue-500 to-purple-600"
   },
   {
     "id": 39,
-    "quote": "Motivational quote #39",
+    "quote": "Don’t limit your challenges. Challenge your limits.",
     "gradient": "bg-gradient-to-r from-purple-400 via-pink-500 to-red-500"
   },
   {
     "id": 40,
-    "quote": "Motivational quote #40",
+    "quote": "Work hard in silence. Let success make the noise.",
     "gradient": "bg-gradient-to-r from-teal-400 to-yellow-200"
   },
   {
-    "id": 41,
-    "quote": "Motivational quote #41",
-    "gradient": "bg-gradient-to-r from-blue-200 via-blue-400 to-blue-600"
+  "id": 41,
+  "quote": "Push yourself, because no one else is going to do it for you.",
+  "gradient": "bg-gradient-to-r from-blue-200 via-blue-400 to-blue-600"
   },
   {
     "id": 42,
-    "quote": "Motivational quote #42",
+    "quote": "Success doesn’t come from what you do occasionally. It comes from what you do consistently.",
     "gradient": "bg-gradient-to-r from-indigo-200 via-red-200 to-yellow-100"
   },
   {
     "id": 43,
-    "quote": "Motivational quote #43",
+    "quote": "Your limitation—it's only your imagination.",
     "gradient": "bg-gradient-to-r from-indigo-200 via-red-200 to-yellow-100"
   },
   {
     "id": 44,
-    "quote": "Motivational quote #44",
+    "quote": "Sometimes later becomes never. Do it now.",
     "gradient": "bg-gradient-to-r from-green-300 via-blue-500 to-purple-600"
   },
   {
     "id": 45,
-    "quote": "Motivational quote #45",
+    "quote": "Great things never come from comfort zones.",
     "gradient": "bg-gradient-to-r from-red-300 to-yellow-300"
   },
   {
     "id": 46,
-    "quote": "Motivational quote #46",
+    "quote": "Dream it. Wish it. Do it.",
     "gradient": "bg-gradient-to-r from-blue-200 via-blue-400 to-blue-600"
   },
   {
     "id": 47,
-    "quote": "Motivational quote #47",
+    "quote": "Success is not for the lazy.",
     "gradient": "bg-gradient-to-r from-rose-400 via-fuchsia-500 to-indigo-500"
   },
   {
     "id": 48,
-    "quote": "Motivational quote #48",
+    "quote": "The harder you work for something, the greater you’ll feel when you achieve it.",
     "gradient": "bg-gradient-to-r from-yellow-200 via-red-300 to-pink-400"
   },
   {
     "id": 49,
-    "quote": "Motivational quote #49",
+    "quote": "Don’t wait for opportunity. Create it.",
     "gradient": "bg-gradient-to-r from-rose-400 via-fuchsia-500 to-indigo-500"
   },
   {
     "id": 50,
-    "quote": "Motivational quote #50",
+    "quote": "Sometimes we’re tested not to show our weaknesses, but to discover our strengths.",
     "gradient": "bg-gradient-to-r from-red-300 to-yellow-300"
   },
   {
     "id": 51,
-    "quote": "Motivational quote #51",
+    "quote": "The key to success is to start before you’re ready.",
     "gradient": "bg-gradient-to-r from-teal-400 to-yellow-200"
   },
   {
     "id": 52,
-    "quote": "Motivational quote #52",
+    "quote": "Don't stop when you're tired. Stop when you're done.",
     "gradient": "bg-gradient-to-r from-yellow-200 via-red-300 to-pink-400"
   },
   {
     "id": 53,
-    "quote": "Motivational quote #53",
+    "quote": "Discipline is doing what needs to be done, even when you don’t feel like doing it.",
     "gradient": "bg-gradient-to-r from-yellow-200 via-red-300 to-pink-400"
   },
   {
     "id": 54,
-    "quote": "Motivational quote #54",
+    "quote": "It always seems impossible until it’s done.",
     "gradient": "bg-gradient-to-r from-red-300 to-yellow-300"
   },
   {
     "id": 55,
-    "quote": "Motivational quote #55",
+    "quote": "Your only limit is your mind.",
     "gradient": "bg-gradient-to-r from-rose-400 via-fuchsia-500 to-indigo-500"
   },
   {
     "id": 56,
-    "quote": "Motivational quote #56",
+    "quote": "Believe in yourself and you will be unstoppable.",
     "gradient": "bg-gradient-to-r from-indigo-200 via-red-200 to-yellow-100"
   },
   {
     "id": 57,
-    "quote": "Motivational quote #57",
+    "quote": "Small steps every day.",
     "gradient": "bg-gradient-to-r from-green-300 via-blue-500 to-purple-600"
   },
   {
     "id": 58,
-    "quote": "Motivational quote #58",
+    "quote": "Stay positive, work hard, make it happen.",
     "gradient": "bg-gradient-to-r from-indigo-200 via-red-200 to-yellow-100"
   },
   {
     "id": 59,
-    "quote": "Motivational quote #59",
+    "quote": "You are capable of amazing things.",
     "gradient": "bg-gradient-to-r from-purple-400 via-pink-500 to-red-500"
   },
   {
     "id": 60,
-    "quote": "Motivational quote #60",
+    "quote": "Don’t limit your challenges. Challenge your limits.",
     "gradient": "bg-gradient-to-r from-lime-200 via-lime-400 to-lime-500"
   },
   {
     "id": 61,
-    "quote": "Motivational quote #61",
+    "quote": "Success is what comes after you stop making excuses.",
     "gradient": "bg-gradient-to-r from-lime-200 via-lime-400 to-lime-500"
   },
   {
     "id": 62,
-    "quote": "Motivational quote #62",
+    "quote": "Believe you can and you’re halfway there.",
     "gradient": "bg-gradient-to-r from-cyan-500 to-blue-500"
   },
   {
     "id": 63,
-    "quote": "Motivational quote #63",
+    "quote": "Make today so awesome that yesterday gets jealous.",
     "gradient": "bg-gradient-to-r from-blue-200 via-blue-400 to-blue-600"
   },
   {
     "id": 64,
-    "quote": "Motivational quote #64",
+    "quote": "You don’t have to be perfect to be amazing.",
     "gradient": "bg-gradient-to-r from-yellow-200 via-red-300 to-pink-400"
   },
   {
     "id": 65,
-    "quote": "Motivational quote #65",
+    "quote": "Act as if what you do makes a difference. It does.",
     "gradient": "bg-gradient-to-r from-yellow-200 via-red-300 to-pink-400"
   },
   {
     "id": 66,
-    "quote": "Motivational quote #66",
+    "quote": "Wake up with determination. Go to bed with satisfaction.",
     "gradient": "bg-gradient-to-r from-red-300 to-yellow-300"
   },
   {
     "id": 67,
-    "quote": "Motivational quote #67",
+    "quote": "You’ve got what it takes, but it will take everything you’ve got.",
     "gradient": "bg-gradient-to-r from-yellow-200 via-red-300 to-pink-400"
   },
   {
     "id": 68,
-    "quote": "Motivational quote #68",
+    "quote": "Strive for progress, not perfection.",
     "gradient": "bg-gradient-to-r from-rose-400 via-fuchsia-500 to-indigo-500"
   },
   {
     "id": 69,
-    "quote": "Motivational quote #69",
+    "quote": "You are stronger than you think.",
     "gradient": "bg-gradient-to-r from-teal-400 to-yellow-200"
   },
   {
     "id": 70,
-    "quote": "Motivational quote #70",
+    "quote": "Work until your idols become your rivals.",
     "gradient": "bg-gradient-to-r from-blue-200 via-blue-400 to-blue-600"
   },
   {
     "id": 71,
-    "quote": "Motivational quote #71",
+    "quote": "Do something today that your future self will thank you for.",
     "gradient": "bg-gradient-to-r from-lime-200 via-lime-400 to-lime-500"
   },
   {
     "id": 72,
-    "quote": "Motivational quote #72",
+    "quote": "Don't downgrade your dream just to fit your reality.",
     "gradient": "bg-gradient-to-r from-teal-400 to-yellow-200"
   },
   {
     "id": 73,
-    "quote": "Motivational quote #73",
+    "quote": "Every accomplishment starts with the decision to try.",
     "gradient": "bg-gradient-to-r from-red-300 to-yellow-300"
   },
   {
     "id": 74,
-    "quote": "Motivational quote #74",
-    "gradient": "bg-gradient-to-r from-purple-400 via-pink-500 to-red-500"
-  },
-  {
-    "id": 75,
-    "quote": "Motivational quote #75",
-    "gradient": "bg-gradient-to-r from-rose-400 via-fuchsia-500 to-indigo-500"
-  },
-  {
-    "id": 76,
-    "quote": "Motivational quote #76",
-    "gradient": "bg-gradient-to-r from-red-300 to-yellow-300"
-  },
-  {
-    "id": 77,
-    "quote": "Motivational quote #77",
-    "gradient": "bg-gradient-to-r from-teal-400 to-yellow-200"
-  },
-  {
-    "id": 78,
-    "quote": "Motivational quote #78",
-    "gradient": "bg-gradient-to-r from-red-300 to-yellow-300"
-  },
-  {
-    "id": 79,
-    "quote": "Motivational quote #79",
-    "gradient": "bg-gradient-to-r from-blue-200 via-blue-400 to-blue-600"
-  },
-  {
-    "id": 80,
-    "quote": "Motivational quote #80",
-    "gradient": "bg-gradient-to-r from-cyan-500 to-blue-500"
-  },
-  {
-    "id": 81,
-    "quote": "Motivational quote #81",
-    "gradient": "bg-gradient-to-r from-purple-400 via-pink-500 to-red-500"
-  },
-  {
-    "id": 82,
-    "quote": "Motivational quote #82",
-    "gradient": "bg-gradient-to-r from-teal-400 to-yellow-200"
-  },
-  {
-    "id": 83,
-    "quote": "Motivational quote #83",
-    "gradient": "bg-gradient-to-r from-purple-400 via-pink-500 to-red-500"
-  },
-  {
-    "id": 84,
-    "quote": "Motivational quote #84",
-    "gradient": "bg-gradient-to-r from-yellow-200 via-red-300 to-pink-400"
-  },
-  {
-    "id": 85,
-    "quote": "Motivational quote #85",
-    "gradient": "bg-gradient-to-r from-teal-400 to-yellow-200"
-  },
-  {
-    "id": 86,
-    "quote": "Motivational quote #86",
+    "quote": "Doubt kills more dreams than failure ever will.",
     "gradient": "bg-gradient-to-r from-indigo-200 via-red-200 to-yellow-100"
   },
   {
+    "id": 75,
+    "quote": "If you get tired, learn to rest, not to quit.",
+    "gradient": "bg-gradient-to-r from-pink-300 via-purple-300 to-indigo-400"
+  },
+  {
+    "id": 76,
+    "quote": "Don’t compare your beginning to someone else’s middle.",
+    "gradient": "bg-gradient-to-r from-orange-200 via-pink-300 to-pink-400"
+  },
+  {
+    "id": 77,
+    "quote": "Keep going. Everything you need will come to you at the perfect time.",
+    "gradient": "bg-gradient-to-r from-fuchsia-300 to-pink-400"
+  },
+  {
+    "id": 78,
+    "quote": "Focus on the step in front of you, not the whole staircase.",
+    "gradient": "bg-gradient-to-r from-purple-300 via-purple-400 to-purple-500"
+  },
+  {
+    "id": 79,
+    "quote": "When you feel like quitting, remember why you started.",
+    "gradient": "bg-gradient-to-r from-green-200 via-blue-300 to-purple-400"
+  },
+  {
+    "id": 80,
+    "quote": "Be fearless in the pursuit of what sets your soul on fire.",
+    "gradient": "bg-gradient-to-r from-yellow-300 via-red-300 to-pink-400"
+  },
+  {
+    "id": 81,
+    "quote": "Turn your wounds into wisdom.",
+    "gradient": "bg-gradient-to-r from-blue-200 via-purple-300 to-indigo-400"
+  },
+  {
+    "id": 82,
+    "quote": "Success is no accident. It is hard work, perseverance, learning, studying, and most of all, love of what you are doing.",
+    "gradient": "bg-gradient-to-r from-teal-300 to-lime-300"
+  },
+  {
+    "id": 83,
+    "quote": "You didn’t come this far to only come this far.",
+    "gradient": "bg-gradient-to-r from-orange-300 via-pink-400 to-purple-500"
+  },
+  {
+    "id": 84,
+    "quote": "Even the darkest night will end and the sun will rise.",
+    "gradient": "bg-gradient-to-r from-gray-300 via-indigo-300 to-blue-400"
+  },
+  {
+    "id": 85,
+    "quote": "If it matters to you, you’ll find a way.",
+    "gradient": "bg-gradient-to-r from-yellow-300 to-red-400"
+  },
+  {
+    "id": 86,
+    "quote": "Your dream doesn’t have an expiration date.",
+    "gradient": "bg-gradient-to-r from-pink-200 via-pink-300 to-pink-400"
+  },
+  {
     "id": 87,
-    "quote": "Motivational quote #87",
-    "gradient": "bg-gradient-to-r from-cyan-500 to-blue-500"
+    "quote": "The best way to get things done is to simply begin.",
+    "gradient": "bg-gradient-to-r from-blue-100 via-blue-300 to-blue-500"
   },
   {
     "id": 88,
-    "quote": "Motivational quote #88",
-    "gradient": "bg-gradient-to-r from-lime-200 via-lime-400 to-lime-500"
+    "quote": "You don’t need to see the whole path. Just take the first step.",
+    "gradient": "bg-gradient-to-r from-red-200 via-red-300 to-red-400"
   },
   {
     "id": 89,
-    "quote": "Motivational quote #89",
-    "gradient": "bg-gradient-to-r from-rose-400 via-fuchsia-500 to-indigo-500"
+    "quote": "Your journey is unique. Don’t compare.",
+    "gradient": "bg-gradient-to-r from-green-100 via-green-300 to-green-400"
   },
   {
     "id": 90,
-    "quote": "Motivational quote #90",
-    "gradient": "bg-gradient-to-r from-cyan-500 to-blue-500"
+    "quote": "Keep your face always toward the sunshine—and shadows will fall behind you.",
+    "gradient": "bg-gradient-to-r from-yellow-100 via-yellow-300 to-yellow-400"
   },
   {
     "id": 91,
-    "quote": "Motivational quote #91",
-    "gradient": "bg-gradient-to-r from-purple-400 via-pink-500 to-red-500"
+    "quote": "Never let a bad day make you feel like you have a bad life.",
+    "gradient": "bg-gradient-to-r from-indigo-100 via-indigo-300 to-indigo-400"
   },
   {
     "id": 92,
-    "quote": "Motivational quote #92",
-    "gradient": "bg-gradient-to-r from-lime-200 via-lime-400 to-lime-500"
+    "quote": "Little by little, day by day, what is meant for you will find its way.",
+    "gradient": "bg-gradient-to-r from-emerald-100 via-emerald-300 to-emerald-400"
   },
   {
     "id": 93,
-    "quote": "Motivational quote #93",
-    "gradient": "bg-gradient-to-r from-green-300 via-blue-500 to-purple-600"
+    "quote": "You’re allowed to scream, you’re allowed to cry, but do not give up.",
+    "gradient": "bg-gradient-to-r from-pink-100 via-pink-300 to-pink-400"
   },
   {
     "id": 94,
-    "quote": "Motivational quote #94",
-    "gradient": "bg-gradient-to-r from-rose-400 via-fuchsia-500 to-indigo-500"
+    "quote": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+    "gradient": "bg-gradient-to-r from-blue-100 via-blue-300 to-blue-500"
   },
   {
     "id": 95,
-    "quote": "Motivational quote #95",
-    "gradient": "bg-gradient-to-r from-cyan-500 to-blue-500"
+    "quote": "Strength grows in the moments when you think you can’t go on but you keep going anyway.",
+    "gradient": "bg-gradient-to-r from-red-100 via-red-300 to-red-500"
   },
   {
     "id": 96,
-    "quote": "Motivational quote #96",
-    "gradient": "bg-gradient-to-r from-green-300 via-blue-500 to-purple-600"
+    "quote": "You are not a drop in the ocean. You are the entire ocean in a drop.",
+    "gradient": "bg-gradient-to-r from-cyan-100 via-cyan-300 to-cyan-500"
   },
   {
     "id": 97,
-    "quote": "Motivational quote #97",
-    "gradient": "bg-gradient-to-r from-purple-400 via-pink-500 to-red-500"
+    "quote": "Let your courage be stronger than your fear.",
+    "gradient": "bg-gradient-to-r from-yellow-200 via-orange-300 to-red-400"
   },
   {
     "id": 98,
-    "quote": "Motivational quote #98",
-    "gradient": "bg-gradient-to-r from-green-300 via-blue-500 to-purple-600"
+    "quote": "Your future needs you. Your past doesn’t.",
+    "gradient": "bg-gradient-to-r from-blue-100 via-purple-200 to-pink-300"
   },
   {
     "id": 99,
-    "quote": "Motivational quote #99",
-    "gradient": "bg-gradient-to-r from-cyan-500 to-blue-500"
+    "quote": "Don’t just exist. Live.",
+    "gradient": "bg-gradient-to-r from-gray-100 via-gray-300 to-gray-500"
   },
   {
     "id": 100,
-    "quote": "Motivational quote #100",
-    "gradient": "bg-gradient-to-r from-purple-400 via-pink-500 to-red-500"
+    "quote": "Be proud of how far you’ve come, and have faith in how far you can go.",
+    "gradient": "bg-gradient-to-r from-pink-200 via-orange-300 to-yellow-400"
   },
-  {
+{
     "id": 101,
-    "quote": "Motivational quote #101",
+    "quote": "Believe in your potential, always.",
     "gradient": "bg-gradient-to-r from-blue-200 via-blue-400 to-blue-600"
   },
   {
     "id": 102,
-    "quote": "Motivational quote #102",
+    "quote": "Push yourself, because no one else will do it for you.",
     "gradient": "bg-gradient-to-r from-yellow-200 via-red-300 to-pink-400"
   },
   {
     "id": 103,
-    "quote": "Motivational quote #103",
+    "quote": "Success starts with self-discipline.",
     "gradient": "bg-gradient-to-r from-red-300 to-yellow-300"
   },
   {
     "id": 104,
-    "quote": "Motivational quote #104",
+    "quote": "You are stronger than your excuses.",
     "gradient": "bg-gradient-to-r from-rose-400 via-fuchsia-500 to-indigo-500"
   },
   {
     "id": 105,
-    "quote": "Motivational quote #105",
+    "quote": "Keep going, even when it’s hard.",
     "gradient": "bg-gradient-to-r from-purple-400 via-pink-500 to-red-500"
   },
   {
     "id": 106,
-    "quote": "Motivational quote #106",
+    "quote": "Your only limit is your mind.",
     "gradient": "bg-gradient-to-r from-purple-400 via-pink-500 to-red-500"
   },
   {
     "id": 107,
-    "quote": "Motivational quote #107",
+    "quote": "Great things never come from comfort zones.",
     "gradient": "bg-gradient-to-r from-teal-400 to-yellow-200"
   },
   {
     "id": 108,
-    "quote": "Motivational quote #108",
+    "quote": "Dream big. Start small. Act now.",
     "gradient": "bg-gradient-to-r from-rose-400 via-fuchsia-500 to-indigo-500"
   },
   {
     "id": 109,
-    "quote": "Motivational quote #109",
+    "quote": "Wake up with determination, go to bed with satisfaction.",
     "gradient": "bg-gradient-to-r from-blue-200 via-blue-400 to-blue-600"
   },
   {
     "id": 110,
-    "quote": "Motivational quote #110",
+    "quote": "Discipline is doing it even when you don’t feel like it.",
     "gradient": "bg-gradient-to-r from-purple-400 via-pink-500 to-red-500"
   },
   {
     "id": 111,
-    "quote": "Motivational quote #111",
+    "quote": "Focus on your goals, not your fear.",
     "gradient": "bg-gradient-to-r from-cyan-500 to-blue-500"
   },
   {
     "id": 112,
-    "quote": "Motivational quote #112",
+    "quote": "Progress, not perfection.",
     "gradient": "bg-gradient-to-r from-cyan-500 to-blue-500"
   },
   {
     "id": 113,
-    "quote": "Motivational quote #113",
+    "quote": "Small steps every day lead to big results.",
     "gradient": "bg-gradient-to-r from-cyan-500 to-blue-500"
   },
   {
     "id": 114,
-    "quote": "Motivational quote #114",
+    "quote": "Your journey is just beginning.",
     "gradient": "bg-gradient-to-r from-rose-400 via-fuchsia-500 to-indigo-500"
   },
   {
     "id": 115,
-    "quote": "Motivational quote #115",
+    "quote": "Don’t watch the clock; do what it does. Keep going.",
     "gradient": "bg-gradient-to-r from-teal-400 to-yellow-200"
   },
   {
     "id": 116,
-    "quote": "Motivational quote #116",
+    "quote": "Don’t stop until you’re proud.",
     "gradient": "bg-gradient-to-r from-red-300 to-yellow-300"
   },
   {
     "id": 117,
-    "quote": "Motivational quote #117",
+    "quote": "Doubt kills more dreams than failure ever will.",
     "gradient": "bg-gradient-to-r from-purple-400 via-pink-500 to-red-500"
   },
   {
     "id": 118,
-    "quote": "Motivational quote #118",
+    "quote": "You got this.",
     "gradient": "bg-gradient-to-r from-red-300 to-yellow-300"
   },
   {
     "id": 119,
-    "quote": "Motivational quote #119",
+    "quote": "Progress over perfection.",
     "gradient": "bg-gradient-to-r from-rose-400 via-fuchsia-500 to-indigo-500"
   },
   {
     "id": 120,
-    "quote": "Motivational quote #120",
+    "quote": "Make today count.",
     "gradient": "bg-gradient-to-r from-green-300 via-blue-500 to-purple-600"
   },
   {
     "id": 121,
-    "quote": "Motivational quote #121",
+    "quote": "Be the energy you want to attract.",
     "gradient": "bg-gradient-to-r from-red-300 to-yellow-300"
   },
   {
     "id": 122,
-    "quote": "Motivational quote #122",
+    "quote": "Your future is created by what you do today.",
     "gradient": "bg-gradient-to-r from-yellow-200 via-red-300 to-pink-400"
   },
   {
     "id": 123,
-    "quote": "Motivational quote #123",
+    "quote": "You are capable of amazing things.",
     "gradient": "bg-gradient-to-r from-purple-400 via-pink-500 to-red-500"
   },
   {
     "id": 124,
-    "quote": "Motivational quote #124",
+    "quote": "Start where you are. Use what you have. Do what you can.",
     "gradient": "bg-gradient-to-r from-green-300 via-blue-500 to-purple-600"
   },
   {
     "id": 125,
-    "quote": "Motivational quote #125",
+    "quote": "Act like it’s impossible to fail.",
     "gradient": "bg-gradient-to-r from-cyan-500 to-blue-500"
   },
   {
     "id": 126,
-    "quote": "Motivational quote #126",
+    "quote": "Keep showing up.",
     "gradient": "bg-gradient-to-r from-red-300 to-yellow-300"
   },
   {
     "id": 127,
-    "quote": "Motivational quote #127",
+    "quote": "One day at a time.",
     "gradient": "bg-gradient-to-r from-lime-200 via-lime-400 to-lime-500"
   },
   {
     "id": 128,
-    "quote": "Motivational quote #128",
+    "quote": "You don’t have to be perfect to be amazing.",
     "gradient": "bg-gradient-to-r from-lime-200 via-lime-400 to-lime-500"
   },
   {
     "id": 129,
-    "quote": "Motivational quote #129",
+    "quote": "Stay patient and trust your journey.",
     "gradient": "bg-gradient-to-r from-yellow-200 via-red-300 to-pink-400"
   },
   {
     "id": 130,
-    "quote": "Motivational quote #130",
+    "quote": "It always seems impossible until it’s done.",
     "gradient": "bg-gradient-to-r from-cyan-500 to-blue-500"
   },
   {
     "id": 131,
-    "quote": "Motivational quote #131",
+    "quote": "Let your dreams be bigger than your fears.",
     "gradient": "bg-gradient-to-r from-yellow-200 via-red-300 to-pink-400"
   },
   {
     "id": 132,
-    "quote": "Motivational quote #132",
+    "quote": "Stay focused and never give up.",
     "gradient": "bg-gradient-to-r from-red-300 to-yellow-300"
   },
   {
     "id": 133,
-    "quote": "Motivational quote #133",
+    "quote": "Every day is a fresh start.",
     "gradient": "bg-gradient-to-r from-red-300 to-yellow-300"
   },
   {
     "id": 134,
-    "quote": "Motivational quote #134",
+    "quote": "Rise above the storm and you will find the sunshine.",
     "gradient": "bg-gradient-to-r from-lime-200 via-lime-400 to-lime-500"
   },
   {
     "id": 135,
-    "quote": "Motivational quote #135",
+    "quote": "You are the author of your story.",
     "gradient": "bg-gradient-to-r from-red-300 to-yellow-300"
   },
   {
     "id": 136,
-    "quote": "Motivational quote #136",
+    "quote": "Start now. Start where you are.",
     "gradient": "bg-gradient-to-r from-blue-200 via-blue-400 to-blue-600"
   },
   {
     "id": 137,
-    "quote": "Motivational quote #137",
+    "quote": "Keep pushing forward.",
     "gradient": "bg-gradient-to-r from-blue-200 via-blue-400 to-blue-600"
   },
   {
     "id": 138,
-    "quote": "Motivational quote #138",
+    "quote": "Do something today that your future self will thank you for.",
     "gradient": "bg-gradient-to-r from-cyan-500 to-blue-500"
   },
   {
     "id": 139,
-    "quote": "Motivational quote #139",
+    "quote": "Chase your dreams with confidence.",
     "gradient": "bg-gradient-to-r from-cyan-500 to-blue-500"
   },
   {
     "id": 140,
-    "quote": "Motivational quote #140",
+    "quote": "The best view comes after the hardest climb.",
     "gradient": "bg-gradient-to-r from-teal-400 to-yellow-200"
   },
   {
     "id": 141,
-    "quote": "Motivational quote #141",
+    "quote": "Fall seven times, stand up eight.",
     "gradient": "bg-gradient-to-r from-purple-400 via-pink-500 to-red-500"
   },
   {
     "id": 142,
-    "quote": "Motivational quote #142",
+    "quote": "Your vibe attracts your tribe.",
     "gradient": "bg-gradient-to-r from-rose-400 via-fuchsia-500 to-indigo-500"
   },
   {
     "id": 143,
-    "quote": "Motivational quote #143",
+    "quote": "Never stop learning because life never stops teaching.",
     "gradient": "bg-gradient-to-r from-red-300 to-yellow-300"
   },
   {
     "id": 144,
-    "quote": "Motivational quote #144",
+    "quote": "Stay positive. Work hard. Make it happen.",
     "gradient": "bg-gradient-to-r from-cyan-500 to-blue-500"
   },
   {
     "id": 145,
-    "quote": "Motivational quote #145",
+    "quote": "Hard work beats talent when talent doesn’t work hard.",
     "gradient": "bg-gradient-to-r from-blue-200 via-blue-400 to-blue-600"
   },
   {
     "id": 146,
-    "quote": "Motivational quote #146",
+    "quote": "You were born to make an impact.",
     "gradient": "bg-gradient-to-r from-cyan-500 to-blue-500"
   },
   {
     "id": 147,
-    "quote": "Motivational quote #147",
+    "quote": "Believe in yourself and all that you are.",
     "gradient": "bg-gradient-to-r from-yellow-200 via-red-300 to-pink-400"
   },
   {
     "id": 148,
-    "quote": "Motivational quote #148",
+    "quote": "Success is the sum of small efforts repeated daily.",
     "gradient": "bg-gradient-to-r from-blue-200 via-blue-400 to-blue-600"
   },
   {
     "id": 149,
-    "quote": "Motivational quote #149",
+    "quote": "Don’t limit your challenges. Challenge your limits.",
     "gradient": "bg-gradient-to-r from-blue-200 via-blue-400 to-blue-600"
   },
   {
     "id": 150,
-    "quote": "Motivational quote #150",
+    "quote": "You can do hard things.",
     "gradient": "bg-gradient-to-r from-indigo-200 via-red-200 to-yellow-100"
   },
   {
     "id": 151,
-    "quote": "Motivational quote #151",
+    "quote": "Stay strong. Stay grounded. Stay grateful.",
     "gradient": "bg-gradient-to-r from-green-300 via-blue-500 to-purple-600"
   },
   {
     "id": 152,
-    "quote": "Motivational quote #152",
+    "quote": "Turn your wounds into wisdom.",
     "gradient": "bg-gradient-to-r from-red-300 to-yellow-300"
   },
   {
     "id": 153,
-    "quote": "Motivational quote #153",
+    "quote": "The key to success is to start before you’re ready.",
     "gradient": "bg-gradient-to-r from-rose-400 via-fuchsia-500 to-indigo-500"
   },
   {
-    "id": 154,
-    "quote": "Motivational quote #154",
-    "gradient": "bg-gradient-to-r from-lime-200 via-lime-400 to-lime-500"
+  "id": 154,
+  "quote": "Your growth begins the moment you step outside your comfort zone.",
+  "gradient": "bg-gradient-to-r from-purple-400 via-pink-500 to-red-500"
   },
   {
     "id": 155,
-    "quote": "Motivational quote #155",
-    "gradient": "bg-gradient-to-r from-yellow-200 via-red-300 to-pink-400"
+    "quote": "A small step today leads to a giant leap tomorrow.",
+    "gradient": "bg-gradient-to-r from-green-300 via-blue-500 to-purple-600"
   },
   {
     "id": 156,
-    "quote": "Motivational quote #156",
-    "gradient": "bg-gradient-to-r from-green-300 via-blue-500 to-purple-600"
+    "quote": "Believe in your power to create change.",
+    "gradient": "bg-gradient-to-r from-red-300 to-yellow-300"
   },
   {
     "id": 157,
-    "quote": "Motivational quote #157",
-    "gradient": "bg-gradient-to-r from-green-300 via-blue-500 to-purple-600"
+    "quote": "Doubt kills more dreams than failure ever will.",
+    "gradient": "bg-gradient-to-r from-blue-200 via-blue-400 to-blue-600"
   },
   {
     "id": 158,
-    "quote": "Motivational quote #158",
-    "gradient": "bg-gradient-to-r from-green-300 via-blue-500 to-purple-600"
+    "quote": "Progress, not perfection, is the key to growth.",
+    "gradient": "bg-gradient-to-r from-teal-400 to-yellow-200"
   },
   {
     "id": 159,
-    "quote": "Motivational quote #159",
-    "gradient": "bg-gradient-to-r from-indigo-200 via-red-200 to-yellow-100"
+    "quote": "You are more capable than you think.",
+    "gradient": "bg-gradient-to-r from-cyan-500 to-blue-500"
   },
   {
     "id": 160,
-    "quote": "Motivational quote #160",
+    "quote": "Keep your face toward the sunshine—and shadows will fall behind you.",
     "gradient": "bg-gradient-to-r from-yellow-200 via-red-300 to-pink-400"
   },
   {
     "id": 161,
-    "quote": "Motivational quote #161",
-    "gradient": "bg-gradient-to-r from-purple-400 via-pink-500 to-red-500"
+    "quote": "Chase dreams, not comfort.",
+    "gradient": "bg-gradient-to-r from-rose-400 via-fuchsia-500 to-indigo-500"
   },
   {
     "id": 162,
-    "quote": "Motivational quote #162",
-    "gradient": "bg-gradient-to-r from-lime-200 via-lime-400 to-lime-500"
+    "quote": "Rise with purpose, shine with passion.",
+    "gradient": "bg-gradient-to-r from-purple-400 via-pink-500 to-red-500"
   },
   {
     "id": 163,
-    "quote": "Motivational quote #163",
-    "gradient": "bg-gradient-to-r from-yellow-200 via-red-300 to-pink-400"
-  },
-  {
-    "id": 164,
-    "quote": "Motivational quote #164",
-    "gradient": "bg-gradient-to-r from-red-300 to-yellow-300"
-  },
-  {
-    "id": 165,
-    "quote": "Motivational quote #165",
-    "gradient": "bg-gradient-to-r from-indigo-200 via-red-200 to-yellow-100"
-  },
-  {
-    "id": 166,
-    "quote": "Motivational quote #166",
-    "gradient": "bg-gradient-to-r from-cyan-500 to-blue-500"
-  },
-  {
-    "id": 167,
-    "quote": "Motivational quote #167",
+    "quote": "Each day brings new strength and new thoughts.",
     "gradient": "bg-gradient-to-r from-green-300 via-blue-500 to-purple-600"
   },
   {
-    "id": 168,
-    "quote": "Motivational quote #168",
-    "gradient": "bg-gradient-to-r from-red-300 to-yellow-300"
-  },
-  {
-    "id": 169,
-    "quote": "Motivational quote #169",
+    "id": 164,
+    "quote": "Stars can't shine without darkness.",
     "gradient": "bg-gradient-to-r from-indigo-200 via-red-200 to-yellow-100"
   },
   {
+    "id": 165,
+    "quote": "Keep going. Each step gets you closer to your goals.",
+    "gradient": "bg-gradient-to-r from-red-300 to-yellow-300"
+  },
+  {
+    "id": 166,
+    "quote": "Your future is created by what you do today.",
+    "gradient": "bg-gradient-to-r from-blue-200 via-blue-400 to-blue-600"
+  },
+  {
+    "id": 167,
+    "quote": "Stay focused and never give up.",
+    "gradient": "bg-gradient-to-r from-yellow-200 via-red-300 to-pink-400"
+  },
+  {
+    "id": 168,
+    "quote": "You don’t have to be perfect to be amazing.",
+    "gradient": "bg-gradient-to-r from-lime-200 via-lime-400 to-lime-500"
+  },
+  {
+    "id": 169,
+    "quote": "Great things never come from comfort zones.",
+    "gradient": "bg-gradient-to-r from-cyan-500 to-blue-500"
+  },
+  {
     "id": 170,
-    "quote": "Motivational quote #170",
+    "quote": "Turn your wounds into wisdom.",
     "gradient": "bg-gradient-to-r from-purple-400 via-pink-500 to-red-500"
   },
   {
     "id": 171,
-    "quote": "Motivational quote #171",
-    "gradient": "bg-gradient-to-r from-blue-200 via-blue-400 to-blue-600"
+    "quote": "Fall seven times, stand up eight.",
+    "gradient": "bg-gradient-to-r from-red-300 to-yellow-300"
   },
   {
     "id": 172,
-    "quote": "Motivational quote #172",
-    "gradient": "bg-gradient-to-r from-blue-200 via-blue-400 to-blue-600"
+    "quote": "The journey of a thousand miles begins with one step.",
+    "gradient": "bg-gradient-to-r from-green-300 via-blue-500 to-purple-600"
   },
   {
     "id": 173,
-    "quote": "Motivational quote #173",
-    "gradient": "bg-gradient-to-r from-lime-200 via-lime-400 to-lime-500"
+    "quote": "Don’t stop until you’re proud.",
+    "gradient": "bg-gradient-to-r from-yellow-200 via-red-300 to-pink-400"
   },
   {
     "id": 174,
-    "quote": "Motivational quote #174",
-    "gradient": "bg-gradient-to-r from-lime-200 via-lime-400 to-lime-500"
+    "quote": "Your only limit is your mind.",
+    "gradient": "bg-gradient-to-r from-blue-200 via-blue-400 to-blue-600"
   },
   {
     "id": 175,
-    "quote": "Motivational quote #175",
+    "quote": "Push yourself, no one else is going to do it for you.",
     "gradient": "bg-gradient-to-r from-cyan-500 to-blue-500"
   },
   {
     "id": 176,
-    "quote": "Motivational quote #176",
-    "gradient": "bg-gradient-to-r from-red-300 to-yellow-300"
+    "quote": "Let your courage be bigger than your fear.",
+    "gradient": "bg-gradient-to-r from-rose-400 via-fuchsia-500 to-indigo-500"
   },
   {
     "id": 177,
-    "quote": "Motivational quote #177",
-    "gradient": "bg-gradient-to-r from-indigo-200 via-red-200 to-yellow-100"
+    "quote": "Every accomplishment starts with the decision to try.",
+    "gradient": "bg-gradient-to-r from-purple-400 via-pink-500 to-red-500"
   },
   {
     "id": 178,
-    "quote": "Motivational quote #178",
-    "gradient": "bg-gradient-to-r from-indigo-200 via-red-200 to-yellow-100"
+    "quote": "Little by little, a little becomes a lot.",
+    "gradient": "bg-gradient-to-r from-lime-200 via-lime-400 to-lime-500"
   },
   {
     "id": 179,
-    "quote": "Motivational quote #179",
-    "gradient": "bg-gradient-to-r from-blue-200 via-blue-400 to-blue-600"
-  },
-  {
-    "id": 180,
-    "quote": "Motivational quote #180",
-    "gradient": "bg-gradient-to-r from-green-300 via-blue-500 to-purple-600"
-  },
-  {
-    "id": 181,
-    "quote": "Motivational quote #181",
-    "gradient": "bg-gradient-to-r from-green-300 via-blue-500 to-purple-600"
-  },
-  {
-    "id": 182,
-    "quote": "Motivational quote #182",
-    "gradient": "bg-gradient-to-r from-indigo-200 via-red-200 to-yellow-100"
-  },
-  {
-    "id": 183,
-    "quote": "Motivational quote #183",
+    "quote": "Don’t wait for opportunity. Create it.",
     "gradient": "bg-gradient-to-r from-red-300 to-yellow-300"
   },
   {
-    "id": 184,
-    "quote": "Motivational quote #184",
+    "id": 180,
+    "quote": "Stay positive. Work hard. Make it happen.",
+    "gradient": "bg-gradient-to-r from-teal-400 to-yellow-200"
+  },
+  {
+    "id": 181,
+    "quote": "Success is what happens after you survive your mistakes.",
+    "gradient": "bg-gradient-to-r from-indigo-200 via-red-200 to-yellow-100"
+  },
+  {
+    "id": 182,
+    "quote": "You are stronger than your excuses.",
+    "gradient": "bg-gradient-to-r from-cyan-500 to-blue-500"
+  },
+  {
+    "id": 183,
+    "quote": "Do something today that your future self will thank you for.",
     "gradient": "bg-gradient-to-r from-yellow-200 via-red-300 to-pink-400"
   },
   {
+    "id": 184,
+    "quote": "Dream big. Start small. Act now.",
+    "gradient": "bg-gradient-to-r from-purple-400 via-pink-500 to-red-500"
+  },
+  {
     "id": 185,
-    "quote": "Motivational quote #185",
+    "quote": "You’ve got this. Keep going.",
     "gradient": "bg-gradient-to-r from-green-300 via-blue-500 to-purple-600"
   },
   {
     "id": 186,
-    "quote": "Motivational quote #186",
-    "gradient": "bg-gradient-to-r from-teal-400 to-yellow-200"
+    "quote": "Strive for progress, not perfection.",
+    "gradient": "bg-gradient-to-r from-blue-200 via-blue-400 to-blue-600"
   },
   {
     "id": 187,
-    "quote": "Motivational quote #187",
-    "gradient": "bg-gradient-to-r from-blue-200 via-blue-400 to-blue-600"
-  },
-  {
-    "id": 188,
-    "quote": "Motivational quote #188",
-    "gradient": "bg-gradient-to-r from-purple-400 via-pink-500 to-red-500"
-  },
-  {
-    "id": 189,
-    "quote": "Motivational quote #189",
-    "gradient": "bg-gradient-to-r from-green-300 via-blue-500 to-purple-600"
-  },
-  {
-    "id": 190,
-    "quote": "Motivational quote #190",
-    "gradient": "bg-gradient-to-r from-indigo-200 via-red-200 to-yellow-100"
-  },
-  {
-    "id": 191,
-    "quote": "Motivational quote #191",
-    "gradient": "bg-gradient-to-r from-cyan-500 to-blue-500"
-  },
-  {
-    "id": 192,
-    "quote": "Motivational quote #192",
-    "gradient": "bg-gradient-to-r from-teal-400 to-yellow-200"
-  },
-  {
-    "id": 193,
-    "quote": "Motivational quote #193",
-    "gradient": "bg-gradient-to-r from-cyan-500 to-blue-500"
-  },
-  {
-    "id": 194,
-    "quote": "Motivational quote #194",
-    "gradient": "bg-gradient-to-r from-purple-400 via-pink-500 to-red-500"
-  },
-  {
-    "id": 195,
-    "quote": "Motivational quote #195",
-    "gradient": "bg-gradient-to-r from-yellow-200 via-red-300 to-pink-400"
-  },
-  {
-    "id": 196,
-    "quote": "Motivational quote #196",
-    "gradient": "bg-gradient-to-r from-cyan-500 to-blue-500"
-  },
-  {
-    "id": 197,
-    "quote": "Motivational quote #197",
-    "gradient": "bg-gradient-to-r from-purple-400 via-pink-500 to-red-500"
-  },
-  {
-    "id": 198,
-    "quote": "Motivational quote #198",
+    "quote": "Your mindset determines your future.",
     "gradient": "bg-gradient-to-r from-red-300 to-yellow-300"
   },
   {
-    "id": 199,
-    "quote": "Motivational quote #199",
+    "id": 188,
+    "quote": "Success is not for the lazy.",
+    "gradient": "bg-gradient-to-r from-cyan-500 to-blue-500"
+  },
+  {
+    "id": 189,
+    "quote": "Be the reason someone believes in goodness.",
+    "gradient": "bg-gradient-to-r from-lime-200 via-lime-400 to-lime-500"
+  },
+  {
+    "id": 190,
+    "quote": "It’s okay to rest. Just don’t quit.",
+    "gradient": "bg-gradient-to-r from-purple-400 via-pink-500 to-red-500"
+  },
+  {
+    "id": 191,
+    "quote": "Even the tallest trees start as tiny seeds.",
+    "gradient": "bg-gradient-to-r from-yellow-200 via-red-300 to-pink-400"
+  },
+  {
+    "id": 192,
+    "quote": "Be fearless in the pursuit of what sets your soul on fire.",
+    "gradient": "bg-gradient-to-r from-rose-400 via-fuchsia-500 to-indigo-500"
+  },
+  {
+    "id": 193,
+    "quote": "Hardships often prepare people for extraordinary destiny.",
+    "gradient": "bg-gradient-to-r from-teal-400 to-yellow-200"
+  },
+  {
+    "id": 194,
+    "quote": "A little progress each day adds up to big results.",
+    "gradient": "bg-gradient-to-r from-indigo-200 via-red-200 to-yellow-100"
+  },
+  {
+    "id": 195,
+    "quote": "Storms make trees take deeper roots.",
+    "gradient": "bg-gradient-to-r from-green-300 via-blue-500 to-purple-600"
+  },
+  {
+    "id": 196,
+    "quote": "You are enough, just as you are.",
     "gradient": "bg-gradient-to-r from-blue-200 via-blue-400 to-blue-600"
   },
   {
+    "id": 197,
+    "quote": "Nothing will work unless you do.",
+    "gradient": "bg-gradient-to-r from-red-300 to-yellow-300"
+  },
+  {
+    "id": 198,
+    "quote": "Wake up with determination. Go to bed with satisfaction.",
+    "gradient": "bg-gradient-to-r from-yellow-200 via-red-300 to-pink-400"
+  },
+  {
+    "id": 199,
+    "quote": "Be kind to yourself. You’re doing the best you can.",
+    "gradient": "bg-gradient-to-r from-cyan-500 to-blue-500"
+  },
+  {
     "id": 200,
-    "quote": "Motivational quote #200",
+    "quote": "Let your light shine brighter than your doubts.",
     "gradient": "bg-gradient-to-r from-purple-400 via-pink-500 to-red-500"
   }
-];
+]
