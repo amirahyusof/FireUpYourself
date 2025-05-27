@@ -3,10 +3,9 @@ import React, { useState, useEffect } from "react";
 import QuoteCard from "@/component/QuoteCard";
 import { motivData } from "@/lib/motivData";
 import Footer from "@/component/footer";
+import Greeting from "@/component/Greeting";
 
 export default function Main(){
-  const currentTime = new Date();
-  const currentHour = currentTime.getHours();
   const [motivation, setMotivation] = useState({
     quote :"Be the change that you wish to see in the world.",
     gradient :"bg-gradient-to-r from-red-300 to-yellow-300"
@@ -29,9 +28,9 @@ export default function Main(){
   }
 
   return (
-    <div className="flex flex-col items-center">
+    <div className="flex flex-col bg-black/80 min-h-screen">
       <div className="items-left py-10">
-        <h1 className="text-xl font-bold text-left">Hello, Good Morning!</h1>
+        <Greeting />
       </div>
       
       <div className="flex items-center mx-auto justify-center">
@@ -40,7 +39,6 @@ export default function Main(){
           gradient={motivation.gradient}
           handleClick={getRandomMotivationQuote}
         />
-      
       </div>
       <Footer />
     </div>
