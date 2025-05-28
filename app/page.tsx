@@ -1,45 +1,17 @@
-"use client"
-import React, { useState, useEffect } from "react";
-import QuoteCard from "@/component/QuoteCard";
-import { motivData } from "@/lib/motivData";
+
+import React from "react";
 import Footer from "@/component/footer";
-import Greeting from "@/component/Greeting";
+
+import { Suspense } from "react";
+import QuoteWrapper from "@/component/randomQuote";
 
 export default function Main(){
-  const [motivation, setMotivation] = useState({
-    quote :"Be the change that you wish to see in the world.",
-    gradient :"bg-gradient-to-r from-red-300 to-yellow-300"
-  })
-  const [allMotivation, setAllMotivation]= useState(motivData);
-  const [isLoading, setIsLoading] = useState(true);
-  const [error, setError] = useState(null);
-
-  function getRandomMotivationQuote(){
-    const motivationArray = allMotivation;
-    const randomNumber = Math.floor(Math.random() * motivationArray.length);
-    const number = motivationArray[randomNumber].quote
-    const gradient = motivationArray[randomNumber].gradient
-
-    setMotivation(prevMotivation => ({
-      ...prevMotivation,
-      quote: number,
-      gradient: gradient
-    }))
-  }
-
   return (
-    <div className="flex flex-col bg-black/80 min-h-screen">
-      <div className="items-left py-10">
-        <Greeting />
-      </div>
+    <div className="flex flex-col bg-black min-h-screen p-24">
+      <Suspense fallback={<p>Loading quote...</p>}>
+        <QuoteWrapper />
+      </Suspense>
       
-      <div className="flex items-center mx-auto justify-center">
-        <QuoteCard
-          quote={motivation.quote}
-          gradient={motivation.gradient}
-          handleClick={getRandomMotivationQuote}
-        />
-      </div>
       <Footer />
     </div>
   );
