@@ -12,8 +12,9 @@ export default function Greeting() {
   }, []);
 
   return (
-    <div className="text-2xl font-bold text-center mt-6 text-white">
-      Hello, {greeting}
+    <div className="text-xl font-bold mt-6 text-white">
+      <h2>Hey, you.</h2>
+      {greeting}!
     </div>
   );
 }
