@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Spark Rise",
+  title: "Spark Arise",
   description: "A motivational quote generator",
 };
 
