@@ -10,13 +10,13 @@ export default function Main(){
     <div className="flex justify-center mx-auto mt-20 overflow-x-hidden max-w-md rounded-4xl h-[640px] bg-gradient-to-r from-yellow-400 to-indigo-500 transition-colors duration-300">
       <div className="flex flex-col items-center justify-center">
         <Image
-          src="/placeholder.jpg"
-          width= {400}
-          height={400}
+          src="/mainPhoto.png"
+          width= {240}
+          height={240}
           alt="Home Image"
-          className="object-cover border-2"
+          className="object-cover z-10"
         />
-        <Button className="mt-2 bg-yellow-400 hover:bg-yellow-500 text-indigo-900 font-semibold px-4 py-2 rounded-xl shadow-md transition">
+        <Button className="mt-2 z-20 bg-yellow-400 hover:bg-yellow-500 text-indigo-900 font-semibold px-4 py-2 rounded-xl shadow-md transition">
           <Link href="/quote">
             Daily Spark
           </Link>
