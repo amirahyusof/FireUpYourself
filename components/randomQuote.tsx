@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import QuoteCard from "@/component/QuoteCard";
+import QuoteCard from "@/components/QuoteCard";
 import { motivData } from "@/lib/motivData";
 
 
@@ -14,7 +14,7 @@ export default function QuoteWrapper(){
   const { quote, gradient } = motivData[RandomIndex];
 
   return(
-    <div className="flex items-center mx-auto justify-center">
+    <div className="flex justify-center mt-10">
       <QuoteCard
         quote={quote}
         gradient={gradient}
