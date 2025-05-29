@@ -15,7 +15,7 @@ export default function QuoteCard({quote, gradient, handleClick}: QuoteCardProps
 
       <div className={`flex-grow flex items-center backdrop-blur-md max-w-sm h-80 p-6 m-4 rounded-2xl text-indigo-900 shadow-lg ${gradient}`}>
         <h3 className='max-w-xs text-xl text-wrap font-medium italic shadow-text' suppressHydrationWarning>
-          "{quote}"
+          &quot;{quote}&quot;
         </h3>
       </div>
       
