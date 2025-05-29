@@ -1,28 +1,18 @@
-
-import { Button } from "@/components/ui/button";
 import React from "react";
-import Link from "next/link";
-import Image from "next/image";
+import { Suspense } from "react";
+import QuoteWrapper from "@/components/randomQuote";
+import Greeting from "@/components/Greeting";
 
-
-export default function Main(){
+export default function QuotePage(){
   return (
-    <div className="flex justify-center mx-auto mt-20 overflow-x-hidden max-w-md rounded-4xl h-[640px] bg-gradient-to-r from-yellow-400 to-indigo-500 transition-colors duration-300">
-      <div className="flex flex-col items-center justify-center">
-        <Image
-          src="/mainPhoto.png"
-          width= {240}
-          height={240}
-          alt="Home Image"
-          className="object-cover z-10"
-        />
-        <Button className="mt-2 z-20 bg-yellow-400 hover:bg-yellow-500 text-indigo-900 font-semibold px-4 py-2 rounded-xl shadow-md transition">
-          <Link href="/quote">
-            Daily Spark
-          </Link>
-        </Button>
+    <div className="flex flex-col justify-center mx-auto mt-20 overflow-x-hidden max-w-md rounded-4xl h-[640px] bg-gradient-to-r from-yellow-400 to-indigo-500 transition-colors duration-300">
+      <div className="ml-6 items-left -mt-20">
+        <Greeting />
       </div>
-      
+
+      <Suspense fallback={<p>Loading quote...</p>}>
+        <QuoteWrapper />
+      </Suspense>
     </div>
   );
 }
