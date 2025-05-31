@@ -33,7 +33,7 @@ export default function NavigationBar() {
                   <Link
                     href={item.href}
                     className={`flex flex-col items-center rounded-lg transition-colors 
-                      ${ isActive ? 'bg-yellow-500 px-2 py-1 rounded-xl' : ''}`
+                      ${ isActive ? 'bg-yellow-500 px-2 rounded-xl' : ''}`
                     }
                   >
                     <item.icon
