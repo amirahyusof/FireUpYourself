@@ -1,14 +1,17 @@
 import type { Metadata } from "next";
-import { Montserrat, Geist_Mono } from "next/font/google";
+import { Poppins, Manrope } from "next/font/google";
 import "./globals.css";
+import Footer from "@/components/footer";
 
-const montserratSans = Montserrat({
-  variable: "--font-geist-sans",
+
+const poppins = Poppins({
+  variable: "--font-poppins",
+  weight:["100", "200", "300", "400", "500", "600", "700", "800", "900"],
   subsets: ["latin"],
 });
 
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
+const manrope = Manrope({
+  variable: "--font-manrope",
   subsets: ["latin"],
 });
 
@@ -25,9 +28,10 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${montserratSans.variable} ${geistMono.variable} antialiased min-h-screen bg-black`}
+        className={`${poppins.variable} ${manrope.variable} antialiased min-h-screen bg-black overflow-hidden`}
       >
         {children}
+        <Footer />
       </body>
     </html>
   );

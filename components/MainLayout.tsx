@@ -1,6 +1,5 @@
 
 import NavigationBar from "./navigationBar";
-import Footer from "@/components/footer";
 
 
 export default function Layout({
@@ -14,7 +13,7 @@ export default function Layout({
         {children}
       </main>
       <NavigationBar />
-      <Footer />
+      
     </div>
   );
 }

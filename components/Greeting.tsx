@@ -12,9 +12,9 @@ export default function Greeting() {
   }, []);
 
   return (
-    <div className="font-bold mt-6">
-      <h2 className="text-3xl text-indigo-50 font-sans">Hey, you!</h2>
-      <span className="text-indigo-100 font-serif text-2xl">{greeting}..</span>
+    <div className="font-bold font-sans">
+      <h2 className="text-3xl text-indigo-50">Hey, you!</h2>
+      <span className="text-indigo-100 text-2xl">{greeting}..</span>
     </div>
   );
 }
