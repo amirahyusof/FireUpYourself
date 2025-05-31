@@ -13,7 +13,7 @@ import {
 const navItems = [
   { href: "/", icon: LayoutGrid, label: 'Main' },
   { href: "/add-quote", icon: HeartPlus, label: 'Add Quote' },
-  { href: "/main", icon: MessageCircleHeart, label: 'Quote' },
+  { href: "/quote", icon: MessageCircleHeart, label: 'Quote' },
   { href: "/favourite", icon: BookHeart, label: 'Favourite' },
 ];
 
