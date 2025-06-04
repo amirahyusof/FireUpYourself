@@ -11,8 +11,8 @@ interface QuoteCardProps {
 export default function QuoteCard({quote, gradient, handleClick}: QuoteCardProps){
   return (
     <section className='flex flex-col overflow-x-hidden'>
-      <div className="flex-grow flex items-center backdrop-blur-md max-w-sm h-80 rounded-2xl text-indigo-900 shadow-lg quote-card">
-        <h3 className='max-w-xs text-xl text-wrap font-medium italic shadow-text' suppressHydrationWarning>
+      <div className="flex-grow flex items-center backdrop-blur-md max-w-sm h-80 rounded-2xl text-indigo-900 quote-card shadow-2xl shadow-amber-200 transition-colors duration-300">
+        <h3 className='max-w-xs text-4xl text-wrap font-medium italic shadow-text' suppressHydrationWarning>
           &quot;{quote}&quot;
         </h3>
       </div>
