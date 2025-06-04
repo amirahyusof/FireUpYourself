@@ -14,7 +14,7 @@ export default function QuoteWrapper(){
   const { quote, gradient } = motivData[RandomIndex];
 
   return(
-    <div className="flex justify-center mt-10">
+    <div className="flex justify-center">
       <QuoteCard
         quote={quote}
         gradient={gradient}
