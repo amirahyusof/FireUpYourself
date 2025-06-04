@@ -9,6 +9,6 @@ export function getGreeting() {
   } else if (hour >= 17 && hour < 21) {
     return "Good Evening 🌇";
   } else {
-    return "Good Night 🌙";
+    return "Night Night 🌙";
   }
 }
