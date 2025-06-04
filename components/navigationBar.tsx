@@ -12,16 +12,16 @@ import {
 
 const navItems = [
   { href: "/", icon: LayoutGrid, label: 'Main' },
-  { href: "/add-quote", icon: HeartPlus, label: 'Add Quote' },
+  { href: "/quote/addQuote", icon: HeartPlus, label: 'Add' },
   { href: "/quote", icon: MessageCircleHeart, label: 'Quote' },
-  { href: "/favourite", icon: BookHeart, label: 'Favourite' },
+  { href: "/quote/favourite", icon: BookHeart, label: 'Favourite' },
 ];
 
 export default function NavigationBar() {
   const pathname = usePathname();
 
   return (
-    <div className="fixed -mt-10 left-0 right-0 flex flex-row justify-center mx-auto max-w-sm rounded-2xl bg-yellow-300 text-indigo-900 font-semibold z-50">
+    <div className="fixed -mt-24 left-0 right-0 flex flex-row justify-center mx-auto max-w-sm rounded-2xl bg-yellow-300 text-indigo-900 font-semibold z-50">
       <div className="p-4 mx-6 sm:mx-0">
         <nav>
           <ul className="grid grid-cols-4 gap-10 md:gap-4">
